@@ -3,9 +3,8 @@ package org.apache.cordova.firebase;
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.iid.FirebaseInstanceIdService;
 
-public class FirebasePluginInstanceIDService extends FirebaseInstanceIdService {
+public class FirebasePluginInstanceIDService {
 
     private static final String TAG = "FirebasePlugin";
 
